@@ -23,6 +23,7 @@
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - High-quality AI video generator that creates realistic shots from text and images.
 - [HeyGen](https://heygen.com) - AI video creation platform for generating professional avatar-based videos.
 - [Synthesia](https://synthesia.io) - AI video generator that creates videos with AI avatars in 130+ languages.
+- [videos.social](https://videos.social/?utm_source=fedorlong-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos.
 - [Vidu](https://www.vidu.com) - AI video generation tool with strong consistency and multi-subject support.
 - [PixVerse](https://pixverse.ai) - AI-powered platform for creating stunning videos from text, images, or video.
 - [Minimax (Hailuo AI)](https://hailuoai.video) - AI video generation tool known for natural motion and cinematic quality.
